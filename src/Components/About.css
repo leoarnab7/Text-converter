@@ -1,0 +1,26 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+   
+  }
+  
+  .card {
+    width: 300px; 
+    height: 700px; 
+    border-radius: 20px; 
+    box-shadow: 1 1 15px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    background-color: blue;
+  }
+  .bold-and-beautiful {
+    font-weight: normal;
+    font-size: 18px; 
+    color: #333; 
+    
+  }
+ .row{
+  justify-content: center;
+ }
+  
